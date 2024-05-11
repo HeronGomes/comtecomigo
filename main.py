@@ -19,11 +19,11 @@ def zera_historico():
 
 st.set_page_config(page_title="Comtecomigo", page_icon=":brain:", layout="centered", initial_sidebar_state="auto", menu_items=None)
 st.title("ComteComigo - Seu amigo virtual nas horas mais complicadas!")
-st.info("ComteComigo é um projeto desenvolvido para o desafio de imersão Alura e Google, utilizando tecnologia Gemini 🧡")
+st.info("ComteComigo é um projeto desenvolvido para o desafio de imersão da Alura em parceria com o Google, utilizando a tecnologia Gemini. 🧡")
 
 
 mensagem_inicial = "Olá 👋, em que posso ajudar?!?!"
-container = st.container(height=300)
+container = st.container(height=500)
 container.chat_message("assistant",avatar="🤖").markdown(mensagem_inicial)
 
 with st.container():
