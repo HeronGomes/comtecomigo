@@ -1,5 +1,5 @@
 # comtecomigo
-Repo do projeto de imersão da Alura com Gimini.
+Repo do projeto de imersão da Alura com Gemini.
 ### Motivação
 
 O mundo é um lugar muito difícil; já temos muitas coisas ruins acontecendo. Faz-se necessário trazer luz sempre que possível.
