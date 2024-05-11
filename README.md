@@ -23,8 +23,8 @@ Simular apoio emocional ( na impossibilidade do humano), quando se fizer necess�
 ### Sobre
 
 Comtecomigo é um projeto utilizando tecnologia de i.a generativa (Google Gemini).
-**Comte**comigo -> Por causa do filósofo do positivismo Auguste **Comte** -> https://brasilescola.uol.com.br/sociologia/auguste-comte.htm
-**Positivismo** -> https://mundoeducacao.uol.com.br/sociologia/positivismo.htm
+**Comte**comigo -> Por causa do filósofo do positivismo Auguste **Comte** -> https://brasilescola.uol.com.br/sociologia/auguste-comte.htm .
+**Positivismo** -> https://mundoeducacao.uol.com.br/sociologia/positivismo.htm .
 
 ### Instalação
 
@@ -35,5 +35,16 @@ pip install -r requirements
 ### Execução
 
 Executar no terminal (mesmo diretório onde o arquivo main.py se encontra) : streamlit run main.py
+
+### Funcionamento
+
+![Alt text](imagens/COMTE1.png)
+
+![Alt text](imagens/COMTE2.png)
+
+![Alt text](imagens/COMTE3.png)
+
+![Alt text](imagens/COMTE4.png)
+
 
 
