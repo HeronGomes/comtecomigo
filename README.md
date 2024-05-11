@@ -2,10 +2,10 @@
 Repo do projeto de imersão da Alura com Gimini.
 ### Motivação
 
-O mundo é um lugar muito dificil, já temos muitas coisas ruins acontecendo, faz-se necessário trazez luz sempre que possível.
-Com as catástrofes recentes no RS, muitas pessoas passam por problemas extremos ( e o sofrimento está longe de acabar), a intuito do projeto é apenas servir de algum apoio, na impossibilidade
-de contato humano. 
-Uma palavra dita na hora certa, uma lembraça, a atenção, pode salvar vidas e dar forças a quem precisa tanto.
+O mundo é um lugar muito difícil; já temos muitas coisas ruins acontecendo. Faz-se necessário trazer luz sempre que possível.
+Com as catástrofes recentes no RS, muitas pessoas estão enfrentando problemas extremos, e o sofrimento está longe de acabar. 
+O intuito do projeto é simplesmente oferecer algum apoio na impossibilidade de contato humano.
+Uma palavra dita na hora certa, uma lembrança, a atenção, pode salvar vidas e dar forças a quem tanto precisa.
 
 ### Objetivo - Primario
 
